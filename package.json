@@ -21,7 +21,7 @@
     "url": "https://github.com/skofman/huh/issues"
   },
   "engines": {
-    "node": "10.x"
+    "node": "8.11.4"
   },
   "homepage": "https://github.com/skofman/huh#readme",
   "dependencies": {
